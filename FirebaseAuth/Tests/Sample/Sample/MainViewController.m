@@ -16,7 +16,8 @@
 
 #import <objc/runtime.h>
 
-#import "FirebaseCore/Sources/Private/FirebaseCoreInternal.h"
+#import <FirebaseCore/FIRApp.h>
+#import <FirebaseCore/FIRAppInternal.h>
 
 #import "AppManager.h"
 #import "AuthCredentials.h"
